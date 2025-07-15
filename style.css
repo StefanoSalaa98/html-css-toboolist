@@ -14,3 +14,17 @@
     margin: 20px auto;
     background:#F6F8FA; 
 }
+
+/*regole header*/
+
+#logo{
+    width:70px;
+    margin-left:20px;
+    vertical-align:middle;
+    line-height:70px;
+}
+
+#titolo{
+    font-size:50px;
+    margin-top:20px;
+}
