@@ -65,3 +65,44 @@
     border:1px solid grey;
     width:100px;
 }
+
+/*regole main*/
+
+#elenco{
+    padding-top:50px;
+    padding-left:40px;
+}
+
+.categoria{
+    font-size:30px;
+}
+
+.testo{
+    font-size:20px;
+}
+
+.check{
+    display:inline-block;
+    height:30px;
+    width:30px;
+    color:green;
+    border:1px solid green;
+    text-align:center;
+    vertical-align:middle;
+    line-height:30px;
+    border-radius:50%;
+    margin-right:10px;
+}
+
+.editorial{
+    font-size:12px;
+    display:inline-block;
+    height:30px;
+    width:60px;
+    text-align:center;
+    vertical-align:middle;
+    line-height:30px;
+    border-radius:25%;
+    color:white;
+    background-color:#48ACF2;
+}
