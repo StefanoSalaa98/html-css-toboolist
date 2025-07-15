@@ -22,6 +22,7 @@
     max-width: 80%;
     margin: 20px auto;
     background-color:white;
+    border-radius:1%;
 }
 
 /*regole header*/
@@ -45,6 +46,7 @@
 #pulsanti{
     padding-top:20px;
     padding-left:40px;
+    margin-bottom:5px;
 }
 
 .bottone{
