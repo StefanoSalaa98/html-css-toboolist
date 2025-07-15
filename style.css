@@ -2,17 +2,26 @@
     margin:0;
     padding:0;
     box-sizing: border-box;
+    
+    
+}
+
+.contenitore_pagina{
+    max-width: 100%;
+    margin: 0 auto;
+    background:#F6F8FA;
 }
 
 .contenitore_header{
     max-width: 100%;
     margin: 0 auto;
+    background-color:white;
 }
 
 .contenitore_main{
     max-width: 80%;
     margin: 20px auto;
-    background:#F6F8FA; 
+    background-color:white;
 }
 
 /*regole header*/
