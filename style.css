@@ -79,14 +79,13 @@
 
 .testo{
     font-size:20px;
+    margin-top:20px;
 }
 
-.check{
+.spunta{
     display:inline-block;
     height:30px;
     width:30px;
-    color:green;
-    border:1px solid green;
     text-align:center;
     vertical-align:middle;
     line-height:30px;
@@ -94,7 +93,17 @@
     margin-right:10px;
 }
 
-.editorial{
+.check{  
+    color:green;
+    border:1px solid green; 
+}
+
+.cross{
+    color:red;
+    border: 1px solid red;
+}
+
+.evidenzia{
     font-size:12px;
     display:inline-block;
     height:30px;
@@ -104,5 +113,20 @@
     line-height:30px;
     border-radius:25%;
     color:white;
+}
+
+.editorial{
     background-color:#48ACF2;
+}
+
+.goals{
+    background-color:#9B75E2;
+}
+
+.recruiting{
+    background-color:#60C2A8;
+}
+
+.mobile{
+    background-color:#F0A030;
 }
