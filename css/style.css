@@ -95,7 +95,7 @@ ul {
 /*regole main*/
 
 .elenco{
-    padding-top:50px;
+    padding-top:30px;
     padding-left:40px;
 }
 
@@ -107,7 +107,7 @@ ul {
     font-size:30px;
 }
 
-.testo{
+li{
     font-size:20px;
     margin-top:20px;
 }
